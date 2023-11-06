@@ -1,0 +1,35 @@
+body{
+    text-align: center;
+    background-color: bisque;
+}
+
+#taskList {
+    list-style: none;
+}
+.completed {
+    text-decoration: line-through;
+}
+
+input{
+    outline: none;
+    height: 40px;
+    width: 200px;
+}
+
+ul{
+    list-style-type: none;
+}
+h1 {
+    color: green;
+}
+
+button{
+    height: 45px;
+    background-color: aquamarine;
+    border: 1px solid black
+}
+
+li.completed {
+    text-decoration: line-through;
+}
+
